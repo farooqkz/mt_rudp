@@ -1,5 +1,5 @@
 #![feature(cursor_remaining)]
-#![feature(hash_drain_filter)]
+#![feature(hash_extract_if)]
 #![feature(int_roundings)]
 
 mod client;
